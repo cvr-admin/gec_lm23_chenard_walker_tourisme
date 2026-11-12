@@ -1,0 +1,6 @@
+{
+    "Lua.workspace.library": [],
+    "Lua.workspace.preloadFileSize": 2000,
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.runtime.builtin": {}
+}
